@@ -1,13 +1,13 @@
 ### Olá, me chamo Lucas Amaral, seja bem-vindo
-- 👨‍💻 19 anos 
+- 👨‍💻 20 anos 
 - 🌇 Belo Horizonte
 - 🔭 Atualmente estudando Sistemas De Informaçao na Puc Minas 
-- 🌱 Aprendendo HTML, CSS, Javascript e java 
+- 🌱 Aprendendo frontEnd(javascript e VueJs), php, SQL, java e outras tecnologias 
 - 🏢 A procura de um estagio 
 - 📫 Entre em contato comigo: (31) 994184095
 
 <div align="left">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6869489572208758784/" >
+  <a href="https://drive.google.com/file/d/1C95OD_6gyxDR2PlzsGhrTG4TyruA0Cxt/view?usp=sharing" >
   📎 - Acesse meu curriculo aqui
 </div>
 
