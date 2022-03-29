@@ -2,7 +2,7 @@
 - 👨‍💻 20 anos 
 - 🌇 Belo Horizonte
 - 🔭 Atualmente estudando Sistemas De Informaçao na Puc Minas 
-- 🌱 Aprendendo frontEnd(javascript e VueJs), php, SQL, java e outras tecnologias 
+- 🌱 Aprendendo frontEnd(javascript e VueJs), php, laravel, SQL, java e outras tecnologias 
 - 🏢 A procura de um estagio 
 - 📫 Entre em contato comigo: (31) 994184095
 
