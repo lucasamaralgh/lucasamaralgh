@@ -3,7 +3,7 @@
 - 🌇 Belo Horizonte
 - 🔭 Atualmente estudando Sistemas De Informaçao na Puc Minas 
 - 🌱 Aprendendo frontEnd(javascript e VueJs), php, laravel, SQL, java e outras tecnologias 
-- 🏢 A procura de um estagio 
+- 🏢 Estagiario em desenvolvimento de Software <a href = "https://www.linkedin.com/company/leverpro/mycompany/"> LeverPro </a>
 - 📫 Entre em contato comigo: (31) 994184095
 
 <div align="left">
