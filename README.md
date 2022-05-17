@@ -7,7 +7,7 @@
 - 📫 Entre em contato comigo: (31) 994184095
 
 <div align="left">
-  <a href="https://drive.google.com/file/d/1C95OD_6gyxDR2PlzsGhrTG4TyruA0Cxt/view?usp=sharing" >
+  <a href="https://drive.google.com/file/d/1lRBh2y67t-5BodJND2DMyLw6blNJea5g/view?usp=sharing" >
   📎 - Acesse meu curriculo aqui
 </div>
 
