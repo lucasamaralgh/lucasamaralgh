@@ -2,8 +2,8 @@
 - 👨‍💻 20 anos 
 - 🌇 Belo Horizonte
 - 🔭 Atualmente estudando Sistemas De Informaçao na Puc Minas 
-- 🌱 Aprendendo frontEnd(javascript e VueJs), php, laravel, SQL, java e outras tecnologias 
-- 🏢 Estagiario em desenvolvimento de Software <a href = "https://www.linkedin.com/company/leverpro/mycompany/"> LeverPro </a>
+- 🌱 Conhecimento em C#, .NET CORE, SQL, java e outras tecnologias 
+- 🏢 Estagiario em desenvolvimento de Software .NET CORE na MeuAcerto
 - 📫 Entre em contato comigo: (31) 994184095
 
 <div align="left">
