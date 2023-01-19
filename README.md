@@ -1,8 +1,8 @@
 ### Olá, me chamo Lucas Amaral, seja bem-vindo
 - 👨‍💻 20 anos 
 - 🌇 Belo Horizonte
-- 🔭 Atualmente estudando Sistemas De Informaçao na Puc Minas 
-- 🌱 Conhecimento em C#, .NET CORE, SQL, java e outras tecnologias 
+- 🔭 Atualmente cursando Sistemas De Informaçao na Puc Minas 
+- 🌱 Conhecimento em C#, .NET CORE, SQL, Swagger, Azure, java e outras tecnologias 
 - 🏢 Estagiario em desenvolvimento de Software .NET CORE na MeuAcerto
 - 📫 Entre em contato comigo: (31) 994184095
 
