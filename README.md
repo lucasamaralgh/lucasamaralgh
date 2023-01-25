@@ -4,7 +4,6 @@
 - 🔭 Atualmente cursando Sistemas De Informaçao na Puc Minas 
 - 🌱 Conhecimento em C#, .NET CORE, SQL, Swagger, Azure, java e outras tecnologias 
 - 🏢 Estagiario em desenvolvimento de Software .NET CORE na MeuAcerto
-- 📫 Entre em contato comigo: (31) 994184095
 
 <div align="left">
   <a href="https://drive.google.com/file/d/1lRBh2y67t-5BodJND2DMyLw6blNJea5g/view?usp=sharing" >
@@ -32,6 +31,8 @@
 </div>
 
 <div> 
+  <br>
+  Entre em contato comigo:
   <br>
   <a href="https://wa.me/5531994184095" target ="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
