@@ -9,6 +9,7 @@
 <div align="left">
   <a href="https://drive.google.com/file/d/1lRBh2y67t-5BodJND2DMyLw6blNJea5g/view?usp=sharing" >
   📎 - Acesse meu curriculo aqui
+  <br>
 </div>
 
 <div align="center">
