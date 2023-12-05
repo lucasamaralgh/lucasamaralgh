@@ -1,5 +1,4 @@
 ### Olá, me chamo Lucas Amaral, seja bem-vindo
-- 👨‍💻 20 anos 
 - 🌇 Belo Horizonte
 - 🔭 Atualmente cursando Sistemas De Informaçao na Puc Minas 
 - 🌱 Conhecimento em C#, .NET CORE, SQL, Swagger, Azure, java e outras tecnologias 
